@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6231932116",
+    "project_id": "e-commerce-practise-project",
+    "storage_bucket": "e-commerce-practise-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6231932116:android:5f059e88307f95f4368f41",
+        "android_client_info": {
+          "package_name": "com.example.practice_flutter_well"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6231932116-comfencags3r7hpgnenrbdu1ng8m8pib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCptdPmz797sSwnVnSsbHI_9gWPvrsUQHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6231932116-comfencags3r7hpgnenrbdu1ng8m8pib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
